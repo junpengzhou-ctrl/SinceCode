@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../hadoopservice/hadoopservice.iml" filepath="$PROJECT_DIR$/../hadoopservice/hadoopservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mapreduceservice/mapreduceservice.iml" filepath="$PROJECT_DIR$/../mapreduceservice/mapreduceservice.iml" />
+    </modules>
+  </component>
+</project>

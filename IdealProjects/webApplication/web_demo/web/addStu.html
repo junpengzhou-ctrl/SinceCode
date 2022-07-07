@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>添加学生信息</title>
+</head>
+<body>
+<div>
+<!--    input输入框内必须有name属性，这样就可以程序中获取对应的填写信息，
+注意：form表单action的是页面网址的路径相当于java类的映射路径，autocomplete自动补全-->
+    <form action="/web_demo_war_exploded/studentServlet" method="get" autocomplete="off"><br/>
+        学生姓名：<input type="text" name="stuname"><br/>
+        学生年龄：<input type="number" name="age"><br/>
+        学生成绩：<input type="number" name="score"><br/>
+        <button type="submit">保存</button>
+    </form>
+</div>
+</body>
+</html>

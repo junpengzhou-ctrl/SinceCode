@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e4eb580-1629-4a29-a512-c26da95f6438" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/Soft/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="F:\Soft\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="25oka0NFWdv1ukmjXxZvcePY8nV" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.Springboot06WebprojApplication">
+    <configuration name="Springboot06WebprojApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-06-webproj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Springboot06WebprojApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot06WebprojApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-06-webproj" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Springboot06WebprojApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Springboot06WebprojApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e4eb580-1629-4a29-a512-c26da95f6438" name="Default Changelist" comment="" />
+      <created>1646200885663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646200885663</updated>
+      <workItem from="1646200890488" duration="10245000" />
+      <workItem from="1646268477528" duration="19263000" />
+      <workItem from="1646354809771" duration="10065000" />
+      <workItem from="1646564568061" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1646376332580">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1646376332580" />
+    <state width="1877" height="165" key="GridCell.Tab.0.bottom" timestamp="1646384495140">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="165" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1646384495140" />
+    <state width="1877" height="165" key="GridCell.Tab.0.center" timestamp="1646384495139">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="165" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1646384495139" />
+    <state width="1877" height="165" key="GridCell.Tab.0.left" timestamp="1646384495139">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="165" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1646384495139" />
+    <state width="1877" height="165" key="GridCell.Tab.0.right" timestamp="1646384495139">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="165" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1646384495139" />
+    <state width="1877" height="165" key="GridCell.Tab.1.bottom" timestamp="1646384495140">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="165" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1646384495140" />
+    <state width="1877" height="165" key="GridCell.Tab.1.center" timestamp="1646384495140">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="165" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1646384495140" />
+    <state width="1877" height="165" key="GridCell.Tab.1.left" timestamp="1646384495140">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="165" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1646384495140" />
+    <state width="1877" height="165" key="GridCell.Tab.1.right" timestamp="1646384495140">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="165" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1646384495140" />
+    <state x="463" y="185" key="SettingsEditor" timestamp="1646276411672">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="463" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1646276411672" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1646201389336">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1646201389336" />
+  </component>
+</project>

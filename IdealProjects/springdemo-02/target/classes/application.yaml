@@ -1,0 +1,7 @@
+person:
+  age: 11
+  name: 张三
+  date: 1995/12/07
+  maps: {k1: v1,k2: v2}
+  lists: [dog,music,girl]
+

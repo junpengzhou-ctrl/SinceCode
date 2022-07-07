@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--不会写注释-->
+<students>
+<student id = "1">
+    <name>ls</name>
+    <age>24</age>
+</student>
+<student id = "2">
+    <name>zs</name>
+    <age>23</age>
+</student>
+</students>
